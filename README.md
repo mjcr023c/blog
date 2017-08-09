@@ -1,2 +1,1 @@
-# blog
-Blog personal realizado en Ruby on Rails
+My Blog in Ruby on Rails
